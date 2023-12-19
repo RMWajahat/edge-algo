@@ -16,14 +16,14 @@
     --fg-color50:#ffffff7f;
     --shadow-pink:#AC276F;
     --shadow-blue:#006794;
-    /* --text-gradient-from:#479BFF;
+    --text-gradient-from:#479BFF;
     --text-gradient-to:#86BEFF;
     --blur-green:rgb(67, 238, 172);
     --box-color:#00121a;
     --box-shadow-color:rgb(2, 30, 43);
     --tradeview-bg:#141316;
 
-    --form-bg:#222222; */
+    --form-bg:#222222;
 }
 
 html::-webkit-scrollbar{
